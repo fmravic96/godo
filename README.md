@@ -2,6 +2,10 @@
 
 A simple CLI todo application written in Go.
 
+## Inspiration
+
+https://roadmap.sh/projects/task-tracker
+
 ## Features
 - Add, update, delete tasks
 - Mark tasks as in-progress or done
